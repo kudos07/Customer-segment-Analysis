@@ -1,7 +1,5 @@
 # Customer Personality Analysis
 
-![Project Image](<URL to Project Image>)
-
 This repository contains code and analysis for Customer Personality Analysis based on the Kaggle dataset: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
 ## Overview
@@ -27,7 +25,7 @@ The dataset used for this analysis is available on Kaggle: [Customer Personality
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/customer-personality-analysis.git
+   git clone https://github.com/kudos07/Customer-segment-Analysis.git
 
 
 pip install -r requirements.txt
